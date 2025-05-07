@@ -3,7 +3,9 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 
 Ulziikhutag Davaasuren (No partner)
 
-[expose.html site](https://ulziihutag15.github.io/Lab5_Starter/expose.html)
+[expose site](https://ulziihutag15.github.io/Lab5_Starter/expose.html)
+
+[explore site](https://ulziihutag15.github.io/Lab5_Starter/explore.html)
 
 **Question 1 Answer:**  
 
